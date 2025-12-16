@@ -44,7 +44,7 @@ ollama run qwen3-14b
 - **Model**: Qwen3 14B
 - **Quantization**: Q4_K_M
 - **Boyut**: ~8.4GB
-- **RAM Gereksinimi**: ~8-10GB
+- **RAM Gereksinimi**: ~24GB
 
 ## Özelleştirme
 
