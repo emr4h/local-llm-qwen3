@@ -2,6 +2,9 @@
 
 Bu repo, Qwen3 14B modelini Ollama ile kullanmak için gerekli yapılandırma dosyalarını içerir.
 
+<img width="1460" height="981" alt="Ekran Resmi 2025-12-16 20 34 46" src="https://github.com/user-attachments/assets/0275ef9c-765e-4382-94b5-288b5aa38da6" />
+
+
 ## İçerik
 
 - `Modelfile`: Ollama model yapılandırma dosyası
