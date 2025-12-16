@@ -1,0 +1,5 @@
+# Büyük model dosyalarını hariç tut
+*.gguf
+
+# macOS dosyaları
+.DS_Store
